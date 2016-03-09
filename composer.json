@@ -1,0 +1,21 @@
+{
+    "name": "hung/hungphp",
+    "description": "Just testing for something",
+    "license": "MIT",
+    "keywords": ["hungphp"],
+    "authors": [
+        {
+            "name": "Hung Nguyen",
+            "email": "hungnguyenphp@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Hung\\Nguyen\\": "src"
+        }
+    }
+}

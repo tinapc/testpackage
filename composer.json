@@ -1,6 +1,5 @@
 {
     "name": "hung/hungphp",
-    "type": "package",
     "description": "Just testing for something",
     "license": "MIT",
     "keywords": ["hungphp"],

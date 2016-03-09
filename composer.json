@@ -1,6 +1,6 @@
 {
     "name": "hung/hungphp",
-    "type": "library",
+    "type": "package",
     "description": "Just testing for something",
     "license": "MIT",
     "keywords": ["hungphp"],

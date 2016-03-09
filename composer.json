@@ -18,5 +18,6 @@
         "psr-4": {
             "Hung\\Nguyen\\": "src"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }

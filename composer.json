@@ -1,6 +1,7 @@
 {
-    "name": "hung/hungphp",
-    "description": "Test for something",
+    "name": "hungnguyen/hungphp",
+    "description": "Tsting something",
+    "type": "library",
     "require-dev": {
         "phpunit/phpunit": "^5.2"
     },

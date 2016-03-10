@@ -2,7 +2,7 @@
 namespace Hung\Nguyen;
 
 class Nguyen {
-    public function covert($str)
+    public static function covert($str)
     {
         return strtoupper($str);
     }
